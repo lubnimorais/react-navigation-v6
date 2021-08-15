@@ -1,0 +1,12 @@
+{
+  "name": "navegacaoV6",
+  "displayName": "navegacaoV6",
+  "expo": {
+    "name": "navegacaoV6",
+    "slug": "navegacaoV6",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
